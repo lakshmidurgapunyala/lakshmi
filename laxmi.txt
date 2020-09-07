@@ -2,3 +2,4 @@ this is laxmi file
 devops responsibulity is deploying applications faster to the market
 git is a opensource distributed version cotrol system
 this is laxmi line
+this is durga1 line
